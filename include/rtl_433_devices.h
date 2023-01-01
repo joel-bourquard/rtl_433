@@ -234,6 +234,7 @@
     DECL(geo_minim) \
     DECL(tpms_tyreguard400) \
     DECL(tpms_kia) \
+    DECL(tfa_14_1504_v2) \
 
     /* Add new decoders here. */
 

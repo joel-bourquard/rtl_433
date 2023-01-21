@@ -309,6 +309,7 @@ See [CONTRIBUTING.md](./docs/CONTRIBUTING.md).
     [224]  GEO minim+ energy monitor
     [225]  TyreGuard 400 TPMS
     [226]  Kia TPMS (-s 1M)
+    [227]  TFA Dostmann 14.1504.V2 Radio-controlled grill and meat thermometer
 
 * Disabled by default, use -R n or a conf file to enable
 
